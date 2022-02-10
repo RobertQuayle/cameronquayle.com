@@ -1,9 +1,13 @@
-#This file lets Git know to ignore certain files when making commits. -Cameron
+#This file lets Git know to ignore certain files when making commits.
+#Apart from adding the assets folder everything else is boilerplate.
 
 # dependencies
 /node_modules
 /.pnp
 .pnp.js
+
+# assets
+/assets
 
 # testing
 /coverage
