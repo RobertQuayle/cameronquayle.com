@@ -1,4 +1,4 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+#This file lets Git know to ignore certain files when making commits. -Cameron
 
 # dependencies
 /node_modules
