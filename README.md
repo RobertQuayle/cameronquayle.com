@@ -1,17 +1,17 @@
-<h1 align="center">Hello World! 🚀, I'm Cameron</h1>
-<h3 align="center">A Full-Stack Software Developer from Isle of Man 🇮🇲</h3>
+<h1 align="center">Hello World! 🚀</h1>
+<h3 align="center">I'm Cameron, a Full-Stack Software Developer from Isle of Man 🇮🇲</h3>
 
 - 🧑🏻‍💻 I’m currently working on [my portfolio site](https://github.com/RobertQuayle/cameronquayle.com)
 
-- 📚 Passionate about learning **everything and anything.**
+- 📚 **Passionate about learning everything and anything, I just love what I do.**
 
-- 💬 Let's talk tech, **I'm always on the look out for new exciting opportunities, get in touch!**
+- 💬 **Let's talk tech. I'm always on the look out for new exciting opportunities, get in touch!**
 
-- 📫 Email: **me@cameronquayle.com**
+- 📫 **Email: me@cameronquayle.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/robert-cameron-quayle-1b49a6133" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/robert-cameron-quayle-1b49a6133" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/robert-cameron-quayle-1b49a6133/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/robert-cameron-quayle-1b49a6133" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
