@@ -1,10 +1,10 @@
 <h1 align="center">Hello World! 🚀</h1>
-<h3 align="center">I'm Cameron, a Full-Stack Software Developer from Isle of Man 🇮🇲</h3>
+<h2 align="center">I'm Cameron, a Full-Stack Software Developer from Isle of Man 🇮🇲</h2>
 
 
 <h3 align="left">About this project:</h3>
 
-- **This repository holds the source code for my Portfolio Website. Since graduating university in April last year, I've mostly worked alone on solo projects in my spare time. With this project however I've decided I want to be as transparent as possible by making it public for anyone to view or follow along with my progress. By doing this I hope to not only create a personal website, but touch-up my skills with Git/GitHub and show I am capable of working in a CI/CD enviroment.**
+- **This repository holds the source code for my Portfolio Website. Since graduating university in April last year, I've mostly worked alone on solo projects in my spare time. With this project however I've decided I want to be as transparent as possible by making it public for anyone to view or follow along with my progress. By doing so I hope to not only create a personal website, but touch-up my skills with Git/GitHub and show I am capable of working in a CI/CD enviroment.**
 
 - **I've recently finished creating mock-ups and wireframes for the layout of my site along with outlining my planned content. I'm now ready to start development. - 11/02/2022**
 
